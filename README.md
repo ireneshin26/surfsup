@@ -17,14 +17,14 @@ From the hawaii.sqlite database, we filtered the date column in the Measurements
 * June's minimum temperature was 64 degrees while the maximum was 85 degrees. The average temperature was 74.9 degrees.
 * December's minimum temperature was 56 degrees while the maximum was 83 degrees. The average temperature was 71.0 degrees.
 * Results: 
-    * [June_Temp.png]<>
-    * [Dec_Temp.png]<>
+    * <img width="145" alt="June_Temp" src="https://user-images.githubusercontent.com/110875578/195001399-9f8fb9bc-bc2a-40f2-9d07-4e6db771a3ce.png"> <img width="156" alt="Dec_Temp" src="https://user-images.githubusercontent.com/110875578/195001425-557d934e-a951-4680-a9e0-5bda845b802c.png">
 
 ## **Summary**
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
 Using a histogram, we were able to see the frequency distribution of the temperatures throughtout the entire year. It can be seen that temps between 75-80F is measured the most often. The query results are in line with this pattern.
-[histograph_temp.png]<>
+
+<img width="338" alt="Histogram_Temp" src="https://user-images.githubusercontent.com/110875578/195001469-8241bd2b-9320-4b9e-9fde-5e5f986bd02d.png">
 
 Other queries that would be helpful to make a decision are: 
 1) Surf conditions: Surf height & swells are an important part of attracting surfers to our surf and shake shop. Conducting an analysis of how the conditions fare throughout the year would help us determiine whether the business will be successful year round.
